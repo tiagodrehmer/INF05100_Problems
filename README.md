@@ -4,6 +4,7 @@ Esse repositorio contem uma apresentação dos problemas para o trabalho em [des
 
 ## Instancias dos problemas
 
+Nas seguintes tabelas são apresentadas o numeros de vertices N o numero de arestas M e o melhor resultado conhecido MRC.
 ### Intancias pra problema de coloração de grafos
 
 As instâncias a seguir são definidas por
@@ -12,11 +13,11 @@ c - linha de comentarios
 
 e n1 n2 - aresta definida pelos extremos n1 e n2
 
-| Instance | \|_N_\| | \|_M_\| | BKS|
+| Instance | \|_N_\| | \|_M_\| | MRC|
 |----------|-------:|---------:|------:|
-|[2-FullIns_4](instances/CG/3-FullIns_4.col)      |20   |10  |1592   |
-|[3-FullIns_4](instances/CG/3-FullIns_4.cool)      |20   |20  |2270   |
-|[5-FullIns_3](instances/CG/3-FullIns_4.col)      |60   | 5  |3663   |
+|[2-FullIns_4](instances/CG/2-FullIns_4.col)      |212   |1621  |1592   |
+|[4-FullIns_3](instances/CG/4-FullIns_3.cool)      |114   |541  |2270   |
+|[5-FullIns_3](instances/CG/5-FullIns_3.col)      |154   | 792  |3663   |
 |[queen10_10](instances/CG/queen10_10.col)      |60   |10  |3423   |
 |[queen11_11](instances/CG/queen11_11.col)    |100  |60  |9395   |
 |[queen12_12](instances/CG/queen12_12.col)    |500  |40  |28548  |
@@ -26,9 +27,9 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 |[queen16_16](instances/CG/queen16_16.col)  |700  |20  |36417  |
 
 
-__Note :__ As instancias foram tiradas e as melhores soluções foram tira das [site da instâncias](https://sites.google.com/site/graphcoloring/home).
+__Note :__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
 
-__Note 2:__ A mathematical formulation of the problem can be found in [Tseng et al. (2004)](https://www.sciencedirect.com/science/article/pii/S030504830300152X).
+__Note 2:__ A mathematical formulation of the problem can be found in [Diaby (2004)](https://pdfs.semanticscholar.org/8940/80ceb6e549e3ec5f54b7d775687c549a8d93.pdf).
 
 
 ### Instances for PMSP
