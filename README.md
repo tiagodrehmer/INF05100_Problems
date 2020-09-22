@@ -29,7 +29,7 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 
 __Note :__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
 
-__Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em: [Diaby (2004)](https://pdfs.semanticscholar.org/8940/80ceb6e549e3ec5f54b7d775687c549a8d93.pdf).
+__Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em: [Malaguti et al. (2011)]https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
 ### Instances for PMSP
