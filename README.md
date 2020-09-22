@@ -14,9 +14,9 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 
 | Instance | \|_N_\| | \|_M_\| | BKS|
 |----------|-------:|---------:|------:|
-|[VFR20_10_3_Gap](instances/CG/VFR20_10_3_Gap.c)      |20   |10  |1592   |
-|[VFR20_20_1_Gap](instances/CG/VFR20_20_1_Gap.c)      |20   |20  |2270   |
-|[VFR60_5_10_Gap](instances/CG/VFR60_5_10_Gap.c)      |60   | 5  |3663   |
+|[2-FullIns_4](instances/CG/3-FullIns_4.c)      |20   |10  |1592   |
+|[3-FullIns_4](instances/CG/3-FullIns_4.c)      |20   |20  |2270   |
+|[5-FullIns_3](instances/CG/3-FullIns_4.c)      |60   | 5  |3663   |
 |[queen10_10](instances/CG/queen10_10.col)      |60   |10  |3423   |
 |[queen11_11](instances/CG/queen11_11.col)    |100  |60  |9395   |
 |[queen12_12](instances/CG/queen12_12.col)    |500  |40  |28548  |
