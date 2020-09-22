@@ -16,7 +16,7 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 | Instance | \|_N_\| | \|_M_\| | MRC|
 |----------|-------:|---------:|------:|
 |[2-FullIns_4](instances/CG/2-FullIns_4.col)      |212   |1621  |1592   |
-|[4-FullIns_3](instances/CG/4-FullIns_3.cool)      |114   |541  |2270   |
+|[4-FullIns_3](instances/CG/4-FullIns_3.col)      |114   |541  |2270   |
 |[5-FullIns_3](instances/CG/5-FullIns_3.col)      |154   | 792  |3663   |
 |[queen10_10](instances/CG/queen10_10.col)      |60   |10  |3423   |
 |[queen11_11](instances/CG/queen11_11.col)    |100  |60  |9395   |
