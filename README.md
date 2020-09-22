@@ -17,13 +17,13 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 |[VFR20_10_3_Gap](instances/CG/VFR20_10_3_Gap.c)      |20   |10  |1592   |
 |[VFR20_20_1_Gap](instances/CG/VFR20_20_1_Gap.c)      |20   |20  |2270   |
 |[VFR60_5_10_Gap](instances/CG/VFR60_5_10_Gap.c)      |60   | 5  |3663   |
-|[queen10_10](instances/CG/queen10_10.c)      |60   |10  |3423   |
-|[queen11_11](instances/CG/queen11_11.c)    |100  |60  |9395   |
-|[queen12_12](instances/CG/queen12_12.c)    |500  |40  |28548  |
-|[queen13_13](instances/CG/queen13_13.c)    |500  |60  |31125  |
-|[queen14_14](instances/CG/queen14_14.c)    |600  |20  |31433  |
-|[queen15_15](instances/CG/queen15_15.c)  |700  |20  |36417  |
-|[queen16_16](instances/CG/queen16_16.c)  |700  |20  |36417  |
+|[queen10_10](instances/CG/queen10_10.col)      |60   |10  |3423   |
+|[queen11_11](instances/CG/queen11_11.col)    |100  |60  |9395   |
+|[queen12_12](instances/CG/queen12_12.col)    |500  |40  |28548  |
+|[queen13_13](instances/CG/queen13_13.col)    |500  |60  |31125  |
+|[queen14_14](instances/CG/queen14_14.col)    |600  |20  |31433  |
+|[queen15_15](instances/CG/queen15_15.col)  |700  |20  |36417  |
+|[queen16_16](instances/CG/queen16_16.col)  |700  |20  |36417  |
 
 
 __Note :__ As instancias foram tiradas e as melhores soluções foram tira das [site da instâncias](https://sites.google.com/site/graphcoloring/home).
