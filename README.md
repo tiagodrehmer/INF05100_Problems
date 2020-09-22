@@ -14,16 +14,16 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 
 | Instance | \|_N_\| | \|_M_\| | BKS|
 |----------|-------:|---------:|------:|
-|[VFR10_15_1_Gap](instances/pfsp/VFR10_15_1_Gap.txt)      |10   |15  |1307   |
-|[VFR20_10_3_Gap](instances/pfsp/VFR20_10_3_Gap.txt)      |20   |10  |1592   |
-|[VFR20_20_1_Gap](instances/pfsp/VFR20_20_1_Gap.txt)      |20   |20  |2270   |
-|[VFR60_5_10_Gap](instances/pfsp/VFR60_5_10_Gap.txt)      |60   | 5  |3663   |
-|[VFR60_10_3_Gap](instances/pfsp/VFR60_10_3_Gap.txt)      |60   |10  |3423   |
-|[VFR100_60_1_Gap](instances/pfsp/VFR100_60_1_Gap.txt)    |100  |60  |9395   |
-|[VFR500_40_1_Gap](instances/pfsp/VFR500_40_1_Gap.txt)    |500  |40  |28548  |
-|[VFR500_60_3_Gap](instances/pfsp/VFR500_60_3_Gap.txt)    |500  |60  |31125  |
-|[VFR600_20_1_Gap](instances/pfsp/VFR600_20_1_Gap.txt)    |600  |20  |31433  |
-|[VFR700_20_10_Gap](instances/pfsp/VFR700_20_10_Gap.txt)  |700  |20  |36417  |
+|[VFR10_15_1_Gap](colo.c)      |10   |15  |1307   |
+|[VFR20_10_3_Gap](instances/CG/VFR20_10_3_Gap.c)      |20   |10  |1592   |
+|[VFR20_20_1_Gap](instances/CG/VFR20_20_1_Gap.c)      |20   |20  |2270   |
+|[VFR60_5_10_Gap](instances/CG/VFR60_5_10_Gap.c)      |60   | 5  |3663   |
+|[VFR60_10_3_Gap](instances/CG/queen10_10.c)      |60   |10  |3423   |
+|[VFR100_60_1_Gap](instances/CG/queen11_11.c)    |100  |60  |9395   |
+|[VFR500_40_1_Gap](instances/CG/queen12_12.c)    |500  |40  |28548  |
+|[VFR500_60_3_Gap](instances/CG/queen13_13.c)    |500  |60  |31125  |
+|[VFR600_20_1_Gap](instances/CG/queen14_14.c)    |600  |20  |31433  |
+|[VFR700_20_10_Gap](instances/CG/queen15_15.c)  |700  |20  |36417  |
 
 __Note :__ As instancias foram tiradas e as melhores soluções foram tira das [site da instâncias](https://sites.google.com/site/graphcoloring/home).
 
