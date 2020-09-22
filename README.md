@@ -13,7 +13,7 @@ c - linha de comentarios
 
 e n1 n2 - aresta definida pelos extremos n1 e n2
 
-| Instance | \|_N_\| | \|_M_\| | MRC|
+| Instance | \|_V_\| | \|_E_\| | MRC|
 |----------|-------:|---------:|------:|
 |[2-FullIns_4](instances/CG/2-FullIns_4.col)      |212   |1621  |6   |
 |[4-FullIns_3](instances/CG/4-FullIns_3.col)      |114   |541  |7   |
