@@ -5,7 +5,7 @@ Esse repositorio contem uma apresentação dos problemas para o trabalho em [des
 ## Instancias dos problemas
 
 Nas seguintes tabelas são apresentadas o numeros de vertices |V| o numero de arestas |E| e os melhores valores conhecido MRC.
-### Intancias pra problema de coloração de grafos
+### Intancias pra problema de coloração de vertices
 
 As instâncias a seguir são definidas por
 
