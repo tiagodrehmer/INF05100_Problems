@@ -4,7 +4,7 @@ Esse repositorio contem uma apresentação dos problemas para o trabalho em [des
 
 ## Instancias dos problemas
 
-Nas seguintes tabelas são apresentadas o numeros de vertices N o numero de arestas M e o melhor resultado conhecido MRC.
+Nas seguintes tabelas são apresentadas o numeros de vertices |V| o numero de arestas |E| e o melhor resultado conhecido MRC.
 ### Intancias pra problema de coloração de grafos
 
 As instâncias a seguir são definidas por
