@@ -39,7 +39,7 @@ As instancias com nome "testFile" foram produziras para esta cadeira, as instanc
 Elas são definidas por uma linha definindo a quantidade por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
-|----------|-------:|---------:|------:|------:|--------:|
+|----------|-------:|---------:|------:|------:|
 |[testFile_0_10_5 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   | 1858.40  ± 9.07   |
 |[testFile_7_75_37  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555   |  527.80   ± 15.43   | 1858.40  ± 9.07   |
 |[testFile_8_75_37  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555   |  820.00   ± 9.62    | 1858.40  ± 9.07   |
