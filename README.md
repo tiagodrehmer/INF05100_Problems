@@ -40,16 +40,16 @@ Elas são definidas por uma linha definindo o numero de vertices, arestas e rotu
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
-|[testFile_0_10_5 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_7_75_37  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555   |  527.80   ± 15.43   | 1858.40  ± 9.07   |
-|[testFile_8_75_37  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555   |  820.00   ± 9.62    | 1858.40  ± 9.07   |
-|[testFile_9_75_60  ](instances/MAGR/testFile_9_75_60.col) | 75  | 555   |  1673.20  ± 43.67  | 1858.40  ± 9.07   |
-|[testFile_10_75_60  ](instances/MAGR/testFile_10_75_60.col) | 75  | 555   |  1089.00  ± 7.25   | 1858.40  ± 9.07   |
-|[testFile_11_75_93 ](instances/MAGR/testFile_11_75_93.col) | 75  | 555  |   711.60  ± 5.73   | 1858.40  ± 9.07   |
-|[testFile_12_75_93 ](instances/MAGR/testFile_12_75_93.col) | 75 | 555   |  5872.00  ± 33.32  | 1858.40  ± 9.07   |
-|[cerulli_100_25 ](instances/MAGR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  | 1858.40  ± 9.07   |
-|[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990  |   1087.80 ± 32.26 | 1858.40  ± 9.07   |
-|[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 | 1858.40  ± 9.07   |
+|[testFile_0_10_5 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9 | 5 | 5* |
+|[testFile_7_75_37  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
+|[testFile_8_75_37  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555 | 37 | 5* |
+|[testFile_9_75_60  ](instances/MAGR/testFile_9_75_60.col) | 75  | 555 |  60 | 7* |
+|[testFile_10_75_60  ](instances/MAGR/testFile_10_75_60.col) | 75  | 555 | 60 | 12 |
+|[testFile_11_75_93 ](instances/MAGR/testFile_11_75_93.col) | 75  | 555 | 93 | 20  |
+|[testFile_12_75_93 ](instances/MAGR/testFile_12_75_93.col) | 75 | 555 | 93 | 19 |
+|[cerulli_100_25 ](instances/MAGR/cerulli_100_25.col) | 100 | 990 | 25  | - |
+|[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990 | 50 | - |
+|[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990 | 100 | - |
 
 __Note :__ Instances mirrored from [Scheduling Research Virtual Center](https://sites.wp.odu.edu/schedulingresearch/paper).
 
