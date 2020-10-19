@@ -34,7 +34,7 @@ __Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em 
 
 ### Instancias para o problema da menor arvore geradora rotulada
 
-As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e assim que tiver resultados faço o update. 
+As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
 
 Essas instancias são definidas por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rotulo l.
 
@@ -60,7 +60,7 @@ __Note 3:__ A mathematical formulation of the problem can be found in [Ezugwu (2
 
 ### Instancias para o problema da floresta geradora minima k-rotulada
 
-As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
+As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
 
 Essas instancias são definidas por uma linha definindo o numero de vertices, arestas, rotulos e o valor k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rotulo l.
 
