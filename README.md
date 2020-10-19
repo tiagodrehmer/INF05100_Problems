@@ -67,7 +67,7 @@ Elas são definidas por uma linha definindo o numero de vertices, arestas, rotul
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
 |:---------|----------:|-----:|------:|------:|------:|
-|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   | 3  | 5   | 3 | |
+|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   | 5  | 3   | 3 |
 |[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  25   | 4 | |
 |[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  40    | 5 | |
 |[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  62  | 6 | |
