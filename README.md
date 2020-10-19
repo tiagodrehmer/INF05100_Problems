@@ -66,17 +66,17 @@ Elas são definidas por uma linha definindo a quantidade por uma linha definindo
 
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
-|:---------|----------:|-----:|------:|------:|--------:|
-|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   |
-|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  527.80   ± 15.43   | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  820.00   ± 9.62    | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  1673.20  ± 43.67  | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  1089.00  ± 7.25   | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   711.60  ± 5.73   | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  5872.00  ± 33.32  | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   1087.80 ± 32.26 | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 | 1858.40  ± 9.07   | 1858.40  ± 9.07   |
+|:---------|----------:|-----:|------:|------:|
+|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   | 1858.40  ± 9.07   |
+|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  527.80   ± 15.43   | 1858.40  ± 9.07   |
+|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  820.00   ± 9.62    | 1858.40  ± 9.07   |
+|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  1673.20  ± 43.67  | 1858.40  ± 9.07   |
+|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  1089.00  ± 7.25   | 1858.40  ± 9.07   |
+|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   711.60  ± 5.73   | 1858.40  ± 9.07   |
+|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  5872.00  ± 33.32  | 1858.40  ± 9.07   |
+|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  | 1858.40  ± 9.07   |
+|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   1087.80 ± 32.26 | 1858.40  ± 9.07   |
+|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 | 1858.40  ± 9.07   |
 
 __Note :__ Instances mirrored from [The TSPDL Lib](http://tspdl.jgr.no/).
 
