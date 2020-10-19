@@ -67,16 +67,16 @@ Elas são definidas por uma linha definindo o numero de vertices, arestas, rotul
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
 |:---------|----------:|-----:|------:|------:|------:|
-|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   | 5  | 3   | 4* |
-|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  25 | 4* |
-|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  40 | 8 |
-|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  62 | 13 |
-|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  37 | 7 |
-|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   60 | 16 |
-|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  93 | 22 |
-|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  25  | 3 | - |
-|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   50 | 6 | - |
-|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   100 | 6 | - |
+|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9  | 5  | 3 | 4* |
+|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50 | 245 | 25 | 4 | 4* |
+|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50 | 245 | 40 | 5 | 8 |
+|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50 | 245 | 62 | 6 | 13 |
+|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75 | 555 | 37 | 4 | 7 |
+|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75 | 555 | 60 | 5 | 16 |
+|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555 | 93 | 6 | 22 |
+|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990 | 25  | 3 | - |
+|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990 | 50 | 6 | - |
+|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
 
 __Note :__ Instances mirrored from [The TSPDL Lib](http://tspdl.jgr.no/).
 
