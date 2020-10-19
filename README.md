@@ -76,8 +76,5 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
 
-### Access to ILOG CPLEX optimization suite
-
-Students and other academic members of Institute of Informatics can request a copy of the proprietary solver CPLEX, under __strictly academic conditions__. The software can be downloaded from through [OnTheHub](https://inf-ufrgs.onthehub.com/WebStore/Welcome.aspx) website. To request credentials to the OnTheHub, contact Library Chief Beatriz Haro.
 
 
