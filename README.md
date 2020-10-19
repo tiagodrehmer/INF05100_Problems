@@ -27,9 +27,9 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 |[queen16_16](instances/CG/queen16_16.col)  |256  |12640  |17  |
 
 
-__Note :__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
+__Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
 
-__Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
+__Note 2:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
 ### Instancias para o problema da menor arvore geradora rotulada
@@ -51,12 +51,7 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 |[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990 | 50 | - |
 |[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990 | 100 | - |
 
-__Note :__ Instances mirrored from [Scheduling Research Virtual Center](https://sites.wp.odu.edu/schedulingresearch/paper).
-
-__Note 2:__ Best known solutions are presented in [Ezugwu (2019)](https://www.sciencedirect.com/science/article/pii/S0950705119300504).
-
-__Note 3:__ A mathematical formulation of the problem can be found in [Ezugwu (2019)](https://www.sciencedirect.com/science/article/pii/S0950705119300504).
-
+__Note 1:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
 ### Instancias para o problema da floresta geradora minima k-rotulada
 
@@ -78,13 +73,8 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 |[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990 | 50 | 6 | - |
 |[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
 
-__Note :__ Instances mirrored from [The TSPDL Lib](http://tspdl.jgr.no/).
 
-__Note 2:__ Best known solutions are presented in [Todosijević et al. (2017)](https://link.springer.com/article/10.1007/s11590-014-0788-9). (See observation 4 below.)
-
-__Note 3:__ A mathematical formulation of the problem can be found in [Rakke et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0305048317300518).
-
-__Note 4:__ The _BKS (avg)_ column presents the average best known solution to the entire instance family (bayg29_10, KroA200_50, and so forth). When available, the BKS of individual instances are presented in column _BKS (instance)_. Some individual results can also be found in [Battarra et al (2014)](https://www.sciencedirect.com/science/article/pii/S0377221713008655).
+__Note 1:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
 
 ### Access to ILOG CPLEX optimization suite
 
