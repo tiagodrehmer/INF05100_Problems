@@ -62,7 +62,7 @@ __Note 3:__ A mathematical formulation of the problem can be found in [Ezugwu (2
 
 As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
 
-Essas instancias são definidas por uma linha definindo o numero de vertices, arestas, rotulos e o valor de k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que as arestas com extremos v1 e v2 e rotulo l.
+Essas instancias são definidas por uma linha definindo o numero de vertices, arestas, rotulos e o valor k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que as arestas com extremos v1 e v2 e rotulo l.
 
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
