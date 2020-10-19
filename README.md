@@ -34,9 +34,9 @@ __Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em 
 
 ### Instancias para o problema da menor arvore geradora rotulada
 
-As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli, são instancias usadas no trabvalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
+As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
 
-Elas são definidas por uma linha definindo a quantidade por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
+Elas são definidas por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
@@ -60,23 +60,23 @@ __Note 3:__ A mathematical formulation of the problem can be found in [Ezugwu (2
 
 ### Instancias para o problema da floresta geradora minima k-rotulada
 
-As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli, são instancias usadas no trabvalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
+As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
 
-Elas são definidas por uma linha definindo a quantidade por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
+Elas são definidas por uma linha definindo o numero de vertices, arestas, rotulos e o valor de k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que as arestas com extremos v1 e v2 e rotulo l.
 
 
-| Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
-|:---------|----------:|-----:|------:|------:|
-|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   | 1858.40  ± 9.07   |
-|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  527.80   ± 15.43   | 1858.40  ± 9.07   |
-|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  820.00   ± 9.62    | 1858.40  ± 9.07   |
-|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  1673.20  ± 43.67  | 1858.40  ± 9.07   |
-|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  1089.00  ± 7.25   | 1858.40  ± 9.07   |
-|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   711.60  ± 5.73   | 1858.40  ± 9.07   |
-|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  5872.00  ± 33.32  | 1858.40  ± 9.07   |
-|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  | 1858.40  ± 9.07   |
-|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   1087.80 ± 32.26 | 1858.40  ± 9.07   |
-|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 | 1858.40  ± 9.07   |
+| Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
+|:---------|----------:|-----:|------:|------:|------:|
+|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   | 3  | 5   | 3 | |
+|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  25   | 4 | |
+|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  40    | 5 | |
+|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  62  | 6 | |
+|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  37   | 4 | |
+|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   60   | 5 | |
+|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  93  | 6 | |
+|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  25  | 3 | |
+|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   50 | 6 | |
+|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   100 | 6 | |
 
 __Note :__ Instances mirrored from [The TSPDL Lib](http://tspdl.jgr.no/).
 
