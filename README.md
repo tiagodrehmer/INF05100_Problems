@@ -29,7 +29,7 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 
 __Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
 
-__Note 2:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
+__Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
 ### Instancias para o problema da menor arvore geradora rotulada
@@ -51,7 +51,7 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 |[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990 | 50 | - |
 |[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990 | 100 | - |
 
-__Note 1:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
+__Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
 ### Instancias para o problema da floresta geradora minima k-rotulada
 
@@ -74,7 +74,7 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 |[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
 
 
-__Note 1:__ Uma formulação matematica e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
+__Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
 
 ### Access to ILOG CPLEX optimization suite
 
