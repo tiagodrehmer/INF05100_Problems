@@ -32,10 +32,11 @@ __Note :__ As instâncias e os melhores resultados conhecidos foram retirados de
 __Note 2:__ Uma formulação matematica para o problema, pode ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
-### Instances for PMSP
+### Instancias para o problema da menor arvore geradora rotulada
 
-Instance names are similar to PFSP: for ``20on4Rp50Rs50_1``, ``20`` refers to the number of tasks, ``4`` refers to the number of machines, ``1`` refers to instance id within ``20_4`` family. Other components of instance name describe parameters used on instance generation. Those information can be ignored.
-The third paragraph of Section 4 of [Ezugwu (2019)](https://www.sciencedirect.com/science/article/pii/S0950705119300504) gives a short description of instance file format.
+As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli, são instancias usadas no trabvalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
+
+Elas são definidas por uma linha definindo a quantidade por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
 
 | Instance | \|_N_\| | \|_M_\| | BKS|
 |----------|-------:|---------:|------:|
@@ -57,11 +58,12 @@ __Note 2:__ Best known solutions are presented in [Ezugwu (2019)](https://www.sc
 __Note 3:__ A mathematical formulation of the problem can be found in [Ezugwu (2019)](https://www.sciencedirect.com/science/article/pii/S0950705119300504).
 
 
-### Instances for TSPDL
+### Instancias para o problema da floresta geradora minima k-rotulada
 
-TSPDL instances are adaptations from classic datasets for TSP. Instance names use the following convention: for ``bayg29_10_1``, ``bayg`` indicates the dataset to which the instance belongs, and``29`` indicates the number of vertices. The other informations can be ignored.
-Instance format for ``bayg``, ``gr``, and ``ulysses`` is structured and self explanatory.
-For ``KroA`` and ``pcb`` families, check the paper of [Reinelt (1991)](http://dx.doi.org/10.1287/ijoc.3.4.376).
+As instancias com nome "testFile" foram produziras para esta cadeira, as instancias com nome cerulli, são instancias usadas no trabvalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.).
+
+Elas são definidas por uma linha definindo a quantidade por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) que definem as arestas com extremos v1 e v2 e rotulo l.
+
 
 | Instance | BKS (avg) | BKS (instance)|
 |:---------|----------:|-----:|
