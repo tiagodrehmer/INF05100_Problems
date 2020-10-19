@@ -39,16 +39,16 @@ The third paragraph of Section 4 of [Ezugwu (2019)](https://www.sciencedirect.co
 
 | Instance | \|_N_\| | \|_M_\| | BKS|
 |----------|-------:|---------:|------:|
-|[100on6Rp50Rs50_1 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   |
-|[20on4Rp50Rs50_1  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555   |  527.80   ± 15.43   |
-|[60on8Rp50Rs50_1  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555   |  820.00   ± 9.62    |
-|[60on4Rp50Rs50_1  ](instances/MAGR/testFile_9_75_60.col) | 75  | 555   |  1673.20  ± 43.67  |
-|[80on8Rp50Rs50_1  ](instances/MAGR/testFile_10_75_60.col) | 75  | 555   |  1089.00  ± 7.25   |
-|[80on12Rp50Rs50_1 ](instances/MAGR/testFile_11_75_93.col) | 75  | 555  |   711.60  ± 5.73   |
-|[100on2Rp50Rs50_1 ](instances/MAGR/testFile_12_75_93.col) | 75 | 555   |  5872.00  ± 33.32  |
-|[100on8Rp50Rs50_1 ](instances/MAGR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  |
-|[120on12Rp50Rs50_1](instances/MAGR/cerulli_100_50.col) | 109 | 990  |   1087.80 ± 32.26 |
-|[120on10Rp50Rs50_1](instances/MAGR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 |
+|[testFile_0_10_5 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   |
+|[testFile_7_75_37  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555   |  527.80   ± 15.43   |
+|[testFile_8_75_37  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555   |  820.00   ± 9.62    |
+|[testFile_9_75_60  ](instances/MAGR/testFile_9_75_60.col) | 75  | 555   |  1673.20  ± 43.67  |
+|[testFile_10_75_60  ](instances/MAGR/testFile_10_75_60.col) | 75  | 555   |  1089.00  ± 7.25   |
+|[testFile_11_75_93 ](instances/MAGR/testFile_11_75_93.col) | 75  | 555  |   711.60  ± 5.73   |
+|[testFile_12_75_93 ](instances/MAGR/testFile_12_75_93.col) | 75 | 555   |  5872.00  ± 33.32  |
+|[cerulli_100_25 ](instances/MAGR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  |
+|[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990  |   1087.80 ± 32.26 |
+|[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 |
 
 __Note :__ Instances mirrored from [Scheduling Research Virtual Center](https://sites.wp.odu.edu/schedulingresearch/paper).
 
@@ -65,16 +65,16 @@ For ``KroA`` and ``pcb`` families, check the paper of [Reinelt (1991)](http://dx
 
 | Instance | BKS (avg) | BKS (instance)|
 |:---------|----------:|-----:|
-|[100on6Rp50Rs50_1 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   |
-|[20on4Rp50Rs50_1  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  527.80   ± 15.43   |
-|[60on8Rp50Rs50_1  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  820.00   ± 9.62    |
-|[60on4Rp50Rs50_1  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  1673.20  ± 43.67  |
-|[80on8Rp50Rs50_1  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  1089.00  ± 7.25   |
-|[80on12Rp50Rs50_1 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   711.60  ± 5.73   |
-|[100on2Rp50Rs50_1 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  5872.00  ± 33.32  |
-|[100on8Rp50Rs50_1 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  |
-|[120on12Rp50Rs50_1](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   1087.80 ± 32.26 |
-|[120on10Rp50Rs50_1](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 |
+|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9   |  1858.40  ± 9.07   |
+|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50  | 245   |  527.80   ± 15.43   |
+|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50  | 245   |  820.00   ± 9.62    |
+|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50  | 245   |  1673.20  ± 43.67  |
+|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75  | 555   |  1089.00  ± 7.25   |
+|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75  | 555   |   711.60  ± 5.73   |
+|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555   |  5872.00  ± 33.32  |
+|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990   |  1371.00  ± 12.10  |
+|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990  |   1087.80 ± 32.26 |
+|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990  |   1326.80 ± 13.46 |
 
 __Note :__ Instances mirrored from [The TSPDL Lib](http://tspdl.jgr.no/).
 
