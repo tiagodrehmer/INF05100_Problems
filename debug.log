@@ -1,0 +1,3 @@
+[1020/015035.828:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tiago\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6f779ac8-3eeb-4b51-9ae9-eb5d188e96cb: O sistema não pode encontrar o caminho especificado. (0x3)
+[1020/015035.829:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tiago\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b2a1ea35-560d-4c8d-912b-693307bf0f35: O sistema não pode encontrar o caminho especificado. (0x3)
+[1020/015035.829:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
