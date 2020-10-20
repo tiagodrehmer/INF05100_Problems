@@ -5,7 +5,7 @@ Esse repositorio contem uma apresentação dos problemas para o trabalho em [des
 ## Instancias dos problemas
 
 Nas seguintes tabelas são apresentadas o numeros de vertices |V| o numero de arestas |E| e os melhores valores conhecido MRC.
-### Intancias pra problema de coloração de vertices
+### Vertex Coloring
 
 As instâncias a seguir são definidas por
 
@@ -32,11 +32,11 @@ __Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados d
 __Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
-### Instancias para o problema da menor arvore geradora rotulada
+### The Minimum Labeling Spanning Trees
 
-As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
+As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias com nome cerulli são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
 
-Essas instancias são definidas por uma linha definindo o numero de vertices, arestas e rotulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rotulo l.
+Essas instâncias são definidas por uma linha definindo o número de vértices, arestas e rótulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
@@ -53,11 +53,11 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
-### Instancias para o problema da floresta geradora minima k-rotulada
+### The k-labeled Spannig Forest
 
-As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
+As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias com nome cerulli são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update.
 
-Essas instancias são definidas por uma linha definindo o numero de vertices, arestas, rotulos e o valor k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rotulo l.
+Essas instâncias são definidas por uma linha definindo o número de vértices, arestas, rótulos e o valor k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
 
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
@@ -76,5 +76,7 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
 
+### Duvidas
 
+Duvidas podem me contatar pelo email tiago.drehmer@gmail.com
 
