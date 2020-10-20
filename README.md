@@ -5,7 +5,7 @@ Esse repositorio contem uma apresentação dos problemas para o trabalho em [des
 ## Instancias dos problemas
 
 Nas seguintes tabelas são apresentadas o numeros de vertices |V| o numero de arestas |E| e os melhores valores conhecido MRC.
-### Intancias pra problema de coloração de vertices
+### Intancias pra problema Vertex Coloring
 
 As instâncias a seguir são definidas por
 
@@ -32,7 +32,7 @@ __Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados d
 __Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
 
-### Instancias para o problema The minimum spannin tree
+### Instancias para o problema The minimum labeling spanning trees
 
 As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
 
@@ -53,7 +53,7 @@ Essas instancias são definidas por uma linha definindo o numero de vertices, ar
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
-### Instancias para o problema da floresta geradora minima k-rotulada
+### Instancias para o problema The k-labeled spannig forest
 
 As instancias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instancias com nome cerulli são instancias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
 
