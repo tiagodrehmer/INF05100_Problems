@@ -76,7 +76,7 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
 
-### The Minimum Labeling Spanning Trees
+### Duvidas
 
 Duvidas podem me contatar pelo email tiago.drehmer@gmail.com
 
