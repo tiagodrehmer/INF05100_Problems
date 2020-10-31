@@ -40,16 +40,16 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
-|[testFile_0_10_5 ](instances/MAGR/testFile_0_10_5.col) | 10 | 9 | 5 | 5* |
-|[testFile_7_75_37  ](instances/MAGR/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
-|[testFile_8_75_37  ](instances/MAGR/testFile_8_75_37.col) | 75  | 555 | 37 | 5* |
-|[testFile_9_75_60  ](instances/MAGR/testFile_9_75_60.col) | 75  | 555 |  60 | 7* |
-|[testFile_10_75_60  ](instances/MAGR/testFile_10_75_60.col) | 75  | 555 | 60 | 12 |
-|[testFile_11_75_93 ](instances/MAGR/testFile_11_75_93.col) | 75  | 555 | 93 | 20  |
-|[testFile_12_75_93 ](instances/MAGR/testFile_12_75_93.col) | 75 | 555 | 93 | 19 |
-|[cerulli_100_25 ](instances/MAGR/cerulli_100_25.col) | 100 | 990 | 25  | - |
-|[cerulli_100_50](instances/MAGR/cerulli_100_50.col) | 109 | 990 | 50 | - |
-|[cerulli_100_100](instances/MAGR/cerulli_100_100.col) | 100 | 990 | 100 | - |
+|[testFile_0_10_5 ](instances/MLST/testFile_0_10_5.col) | 10 | 9 | 5 | 5* |
+|[testFile_7_75_37  ](instances/MLST/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
+|[testFile_8_75_37  ](instances/MLST/testFile_8_75_37.col) | 75  | 555 | 37 | 5* |
+|[testFile_9_75_60  ](instances/MLST/testFile_9_75_60.col) | 75  | 555 |  60 | 7* |
+|[testFile_10_75_60  ](instances/MLST/testFile_10_75_60.col) | 75  | 555 | 60 | 12 |
+|[testFile_11_75_93 ](instances/MLST/testFile_11_75_93.col) | 75  | 555 | 93 | 20  |
+|[testFile_12_75_93 ](instances/MLST/testFile_12_75_93.col) | 75 | 555 | 93 | 19 |
+|[cerulli_100_25 ](instances/MLST/cerulli_100_25.col) | 100 | 990 | 25  | - |
+|[cerulli_100_50](instances/MLST/cerulli_100_50.col) | 109 | 990 | 50 | - |
+|[cerulli_100_100](instances/MLST/cerulli_100_100.col) | 100 | 990 | 100 | - |
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
@@ -62,16 +62,16 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
 |:---------|----------:|-----:|------:|------:|------:|
-|[testFile_0_10_5 ](instances/FGMkR/testFile_0_10_5.col) | 10 | 9  | 5  | 3 | 4* |
-|[testFile_1_50_25  ](instances/FGMkR/testFile_1_50_25.col) | 50 | 245 | 25 | 4 | 4* |
-|[testFile_4_50_40  ](instances/FGMkR/testFile_4_50_40.col) | 50 | 245 | 40 | 5 | 8 |
-|[testFile_6_50_62  ](instances/FGMkR/testFile_6_50_62.col) | 50 | 245 | 62 | 6 | 13 |
-|[testFile_7_75_37  ](instances/FGMkR/testFile_7_75_37.col) | 75 | 555 | 37 | 4 | 7 |
-|[testFile_9_75_60 ](instances/FGMkR/testFile_9_75_60.col) | 75 | 555 | 60 | 5 | 16 |
-|[testFile_11_75_93 ](instances/FGMkR/testFile_11_75_93.col) | 75 | 555 | 93 | 6 | 22 |
-|[cerulli_100_25 ](instances/FGMkR/cerulli_100_25.col) | 100 | 990 | 25  | 3 | - |
-|[cerulli_100_50](instances/FGMkR/cerulli_100_50.col) | 100 | 990 | 50 | 6 | - |
-|[cerulli_100_100](instances/FGMkR/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
+|[testFile_0_10_5 ](instances/kLSF/testFile_0_10_5.col) | 10 | 9  | 5  | 3 | 4* |
+|[testFile_1_50_25  ](instances/kLSF/testFile_1_50_25.col) | 50 | 245 | 25 | 4 | 4* |
+|[testFile_4_50_40  ](instances/kLSF/testFile_4_50_40.col) | 50 | 245 | 40 | 5 | 8 |
+|[testFile_6_50_62  ](instances/kLSF/testFile_6_50_62.col) | 50 | 245 | 62 | 6 | 13 |
+|[testFile_7_75_37  ](instances/kLSF/testFile_7_75_37.col) | 75 | 555 | 37 | 4 | 7 |
+|[testFile_9_75_60 ](instances/kLSF/testFile_9_75_60.col) | 75 | 555 | 60 | 5 | 16 |
+|[testFile_11_75_93 ](instances/kLSF/testFile_11_75_93.col) | 75 | 555 | 93 | 6 | 22 |
+|[cerulli_100_25 ](instances/kLSF/cerulli_100_25.col) | 100 | 990 | 25  | 3 | - |
+|[cerulli_100_50](instances/kLSF/cerulli_100_50.col) | 100 | 990 | 50 | 6 | - |
+|[cerulli_100_100](instances/kLSF/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
 
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
