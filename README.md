@@ -15,16 +15,16 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 
 | Instance | \|_V_\| | \|_E_\| | MRC|
 |----------|-------:|---------:|------:|
-|[2-FullIns_4](instances/CG/2-FullIns_4.col)      |212   |1621  |6   |
-|[4-FullIns_3](instances/CG/4-FullIns_3.col)      |114   |541  |7   |
-|[5-FullIns_3](instances/CG/5-FullIns_3.col)      |154   | 792  |3   |
-|[queen10_10](instances/CG/queen10_10.col)      |100   |2940  |11   |
-|[queen11_11](instances/CG/queen11_11.col)    |121  |3960  |11   |
-|[queen12_12](instances/CG/queen12_12.col)    |244  |5192  |12  |
-|[queen13_13](instances/CG/queen13_13.col)    |169  |6656  |13  |
-|[queen14_14](instances/CG/queen14_14.col)    |196  |4186	  |14  |
-|[queen15_15](instances/CG/queen15_15.col)  |225  |5180  |15  |
-|[queen16_16](instances/CG/queen16_16.col)  |256  |12640  |17  |
+|[2-FullIns_4](instances/VC/2-FullIns_4.col)      |212   |1621  |6   |
+|[4-FullIns_3](instances/VC/4-FullIns_3.col)      |114   |541  |7   |
+|[5-FullIns_3](instances/VC/5-FullIns_3.col)      |154   | 792  |3   |
+|[queen10_10](instances/VC/queen10_10.col)      |100   |2940  |11   |
+|[queen11_11](instances/VC/queen11_11.col)    |121  |3960  |11   |
+|[queen12_12](instances/VC/queen12_12.col)    |244  |5192  |12  |
+|[queen13_13](instances/VC/queen13_13.col)    |169  |6656  |13  |
+|[queen14_14](instances/VC/queen14_14.col)    |196  |4186	  |14  |
+|[queen15_15](instances/VC/queen15_15.col)  |225  |5180  |15  |
+|[queen16_16](instances/VC/queen16_16.col)  |256  |12640  |17  |
 
 
 __Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
