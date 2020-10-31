@@ -80,3 +80,9 @@ __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser 
 
 Duvidas podem me contatar pelo email tiago.drehmer@gmail.com
 
+### Atualização
+
+Atualização (31/10/2020)
+- Instâncias foram padronizadas para um unico padrão.
+- Best Know atualizado de algumas que não tinham.
+
