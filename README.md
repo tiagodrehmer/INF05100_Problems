@@ -42,9 +42,9 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 |----------|-------:|---------:|------:|------:|
 |[testFile_0_10_5 ](instances/MLST/testFile_0_10_5.col) | 10 | 9 | 5 | 5* |
 |[testFile_7_75_37](instances/MLST/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
-|[testFile_9_75_60  ](instances/MLST/testFile_8_75_37.col) | 75  | 555 | 60| 7* |
-|[testFile_11_75_93  ](instances/MLST/testFile_9_75_60.col) | 75  | 555 |  93 | 20 |
-|[100-990-25-3-1](instances/MLST/100-990-25-3-1 | 100  | 990 | 25 | 8 |
+|[testFile_9_75_60](instances/MLST/testFile_9_75_60.col) | 75  | 555 | 60| 7* |
+|[testFile_11_75_93](instances/MLST/testFile_11_75_93.col) | 75  | 555 |  93 | 20 |
+|[100-990-25-3-1](instances/MLST/100-990-25-3-1) | 100  | 990 | 25 | 8 |
 |[100-990-25-3-4](instances/MLST/100-990-25-3-4) | 100  | 990 | 25 | 5 |
 |[100-990-50-6-7](instances/MLST/100-990-50-6-7) | 100 | 990 | 50 | 14 |
 |[100-990-50-6-8](instances/MLST/100-990-50-6-8) | 100 | 990 | 50  | 7 |
