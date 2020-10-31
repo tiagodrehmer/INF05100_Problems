@@ -66,12 +66,12 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 |[testFile_7_75_35  ](instances/kLSF/testFile_1_50_25.col) | 75 | 555 | 35 | 4 | 7 |
 |[testFile_9_75_60](instances/kLSF/testFile_4_50_40.col) | 75 | 555 | 60 | 5 | 16 |
 |[testFile_11_75_93](instances/kLSF/testFile_6_50_62.col) | 75 | 555 | 93 | 6 | 22 |
-|[100-990-25-3-1](instances/kLSF/100-990-25-3-1) | 100  | 990 | 25 | 3* |
-|[100-990-25-3-4](instances/kLSF/100-990-25-3-4) | 100  | 990 | 25 | 2* |
-|[100-990-50-6-7](instances/kLSF/100-990-50-6-7) | 100 | 990 | 50 | 2 |
-|[100-990-50-6-8](instances/kLSF/100-990-50-6-8) | 100 | 990 | 50  | 1* |
-|[100-990-100-6-5](instances/kLSF/100-990-100-6-5) | 109 | 990 | 100 | 12* |
-|[100-990-125-7-4](instances/kLSF/100-990-125-7-4) | 100 | 990 | 125 | 22  |
+|[100-990-25-3-1](instances/kLSF/100-990-25-3-1) | 100  | 990 | 25 | 3 | 3* |
+|[100-990-25-3-4](instances/kLSF/100-990-25-3-4) | 100  | 990 | 25 | 3 | 2* |
+|[100-990-50-6-7](instances/kLSF/100-990-50-6-7) | 100 | 990 | 50 | 6 | 2 |
+|[100-990-50-6-8](instances/kLSF/100-990-50-6-8) | 100 | 990 | 50  | 6 | 1* |
+|[100-990-100-6-5](instances/kLSF/100-990-100-6-5) | 109 | 990 | 100 | 6 | 12* |
+|[100-990-125-7-4](instances/kLSF/100-990-125-7-4) | 100 | 990 | 125 | 7  | 22 |
 
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
