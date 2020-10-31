@@ -41,15 +41,15 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
 |[testFile_0_10_5 ](instances/MLST/testFile_0_10_5.col) | 10 | 9 | 5 | 5* |
-|[testFile_7_75_37  ](instances/MLST/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
-|[testFile_8_75_37  ](instances/MLST/testFile_8_75_37.col) | 75  | 555 | 37 | 5* |
-|[testFile_9_75_60  ](instances/MLST/testFile_9_75_60.col) | 75  | 555 |  60 | 7* |
-|[testFile_10_75_60  ](instances/MLST/testFile_10_75_60.col) | 75  | 555 | 60 | 12 |
-|[testFile_11_75_93 ](instances/MLST/testFile_11_75_93.col) | 75  | 555 | 93 | 20  |
-|[testFile_12_75_93 ](instances/MLST/testFile_12_75_93.col) | 75 | 555 | 93 | 19 |
-|[cerulli_100_25 ](instances/MLST/cerulli_100_25.col) | 100 | 990 | 25  | - |
-|[cerulli_100_50](instances/MLST/cerulli_100_50.col) | 109 | 990 | 50 | - |
-|[cerulli_100_100](instances/MLST/cerulli_100_100.col) | 100 | 990 | 100 | - |
+|[testFile_7_75_37](instances/MLST/testFile_7_75_37.col) | 75  | 555 | 37 | 10 |
+|[testFile_9_75_60  ](instances/MLST/testFile_8_75_37.col) | 75  | 555 | 60| 7* |
+|[testFile_11_75_93  ](instances/MLST/testFile_9_75_60.col) | 75  | 555 |  93 | 20 |
+|[100-990-25-3-1](instances/MLST/100-990-25-3-1 | 100  | 990 | 25 | 8 |
+|[100-990-25-3-4](instances/MLST/100-990-25-3-4) | 100  | 990 | 25 | 5 |
+|[100-990-50-6-7](instances/MLST/100-990-50-6-7) | 100 | 990 | 50 | 14 |
+|[100-990-50-6-8](instances/MLST/100-990-50-6-8) | 100 | 990 | 50  | 7 |
+|[100-990-100-6-5](instances/MLST/100-990-100-6-5) | 109 | 990 | 100 | 17 |
+|[100-990-125-7-4](instances/MLST/100-990-125-7-4) | 100 | 990 | 125 | 11  |
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Captivo et al. (2009)](https://www.sciencedirect.com/science/article/abs/pii/S0305054809000458).
 
