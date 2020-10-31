@@ -34,9 +34,9 @@ __Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser 
 
 ### The Minimum Labeling Spanning Trees
 
-As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias com nome cerulli são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update. 
+As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias sem o nome testFile são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.)
 
-Essas instâncias são definidas por uma linha definindo o número de vértices, arestas e rótulos respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
+Essas instâncias são definidas por uma linha definindo o número de vértices, arestas e rótulos respectivamente, seguida por uma linha em branco e |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\| |  BKS|
 |----------|-------:|---------:|------:|------:|
@@ -55,23 +55,23 @@ __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser 
 
 ### The k-labeled Spannig Forest
 
-As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias com nome cerulli são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e não possuem resultados ainda pois não rodei o solver nelas, assim que tiver resultados faço o update.
+As instâncias com nome "testFile" foram produzidas para esta cadeira, e foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro de duas horas pelo solver. As instâncias sem o nome testFile são instâncias usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), e os best know delas foram delas foram retirado de. [Figueredo (2020]
 
-Essas instâncias são definidas por uma linha definindo o número de vértices, arestas, rótulos e o valor k_max respectivamente, seguida por |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
+Essas instâncias são definidas por uma linha definindo o número de vértices, arestas, rótulos e o valor k_max respectivamente, seguida por uma linha em branco e |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
 
 
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
 |:---------|----------:|-----:|------:|------:|------:|
 |[testFile_0_10_5 ](instances/kLSF/testFile_0_10_5.col) | 10 | 9  | 5  | 3 | 4* |
-|[testFile_1_50_25  ](instances/kLSF/testFile_1_50_25.col) | 50 | 245 | 25 | 4 | 4* |
-|[testFile_4_50_40  ](instances/kLSF/testFile_4_50_40.col) | 50 | 245 | 40 | 5 | 8 |
-|[testFile_6_50_62  ](instances/kLSF/testFile_6_50_62.col) | 50 | 245 | 62 | 6 | 13 |
-|[testFile_7_75_37  ](instances/kLSF/testFile_7_75_37.col) | 75 | 555 | 37 | 4 | 7 |
-|[testFile_9_75_60 ](instances/kLSF/testFile_9_75_60.col) | 75 | 555 | 60 | 5 | 16 |
-|[testFile_11_75_93 ](instances/kLSF/testFile_11_75_93.col) | 75 | 555 | 93 | 6 | 22 |
-|[cerulli_100_25 ](instances/kLSF/cerulli_100_25.col) | 100 | 990 | 25  | 3 | - |
-|[cerulli_100_50](instances/kLSF/cerulli_100_50.col) | 100 | 990 | 50 | 6 | - |
-|[cerulli_100_100](instances/kLSF/cerulli_100_100.col) | 100 | 990 | 100 | 6 | - |
+|[testFile_7_75_35  ](instances/kLSF/testFile_1_50_25.col) | 75 | 555 | 35 | 4 | 7 |
+|[testFile_9_75_60](instances/kLSF/testFile_4_50_40.col) | 75 | 555 | 60 | 5 | 16 |
+|[testFile_11_75_93](instances/kLSF/testFile_6_50_62.col) | 75 | 555 | 93 | 6 | 22 |
+|[100-990-25-3-1](instances/kLSF/100-990-25-3-1) | 100  | 990 | 25 | 3* |
+|[100-990-25-3-4](instances/kLSF/100-990-25-3-4) | 100  | 990 | 25 | 2* |
+|[100-990-50-6-7](instances/kLSF/100-990-50-6-7) | 100 | 990 | 50 | 2 |
+|[100-990-50-6-8](instances/kLSF/100-990-50-6-8) | 100 | 990 | 50  | 1* |
+|[100-990-100-6-5](instances/kLSF/100-990-100-6-5) | 109 | 990 | 100 | 12* |
+|[100-990-125-7-4](instances/kLSF/100-990-125-7-4) | 100 | 990 | 125 | 22  |
 
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
