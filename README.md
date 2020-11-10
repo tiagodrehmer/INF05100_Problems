@@ -80,10 +80,14 @@ __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser 
 
 Duvidas podem me contatar pelo email tiago.drehmer@gmail.com
 
-### Atualização
+### Atualizações
 
 Atualização (31/10/2020)
 - Instâncias foram padronizadas.
 - Best Know atualizado de algumas que não tinham.
 - Corrigido links quebrado
+
+Atualização (31/10/2020)
+- Instâncias do vertice covering foram alteradas
+  - Alterei algumas instância pois foi o problema com maior exigência em relação ao tamanho delas, então reduzi algumas.
 
