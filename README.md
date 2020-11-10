@@ -83,7 +83,7 @@ Duvidas podem me contatar pelo email tiago.drehmer@gmail.com
 ### Atualização
 
 Atualização (31/10/2020)
-- Instâncias foram padronizadas para um unico padrão.
+- Instâncias foram padronizadas.
 - Best Know atualizado de algumas que não tinham.
 - Corrigido links quebrado
 
