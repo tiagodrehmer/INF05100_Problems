@@ -63,15 +63,15 @@ Essas instâncias são definidas por uma linha definindo o número de vértices,
 | Instance | \|_N_\| | \|_E_\| |  \|_L_\||  k_max|  BKS|
 |:---------|----------:|-----:|------:|------:|------:|
 |[testFile_0_10_5 ](instances/kLSF/testFile_0_10_5.col) | 10 | 9  | 5  | 3 | 4* |
-|[testFile_7_75_35  ](instances/kLSF/testFile_1_50_25.col) | 75 | 555 | 35 | 4 | 7 |
-|[testFile_9_75_60](instances/kLSF/testFile_4_50_40.col) | 75 | 555 | 60 | 5 | 16 |
-|[testFile_11_75_93](instances/kLSF/testFile_6_50_62.col) | 75 | 555 | 93 | 6 | 22 |
-|[100-990-25-3-1](instances/kLSF/100-990-25-3-1) | 100  | 990 | 25 | 3 | 3* |
-|[100-990-25-3-4](instances/kLSF/100-990-25-3-4) | 100  | 990 | 25 | 3 | 2* |
-|[100-990-50-6-7](instances/kLSF/100-990-50-6-7) | 100 | 990 | 50 | 6 | 2 |
-|[100-990-50-6-8](instances/kLSF/100-990-50-6-8) | 100 | 990 | 50  | 6 | 1* |
-|[100-990-100-6-5](instances/kLSF/100-990-100-6-5) | 109 | 990 | 100 | 6 | 12* |
-|[100-990-125-7-4](instances/kLSF/100-990-125-7-4) | 100 | 990 | 125 | 7  | 22 |
+|[testFile_7_75_35  ](instances/kLSF/testFile_1_50_25.col) | 75 | 555 | 35 | 4 | 17 |
+|[testFile_9_75_60](instances/kLSF/testFile_4_50_40.col) | 75 | 555 | 60 | 5 | 7* |
+|[testFile_11_75_93](instances/kLSF/testFile_6_50_62.col) | 75 | 555 | 93 | 6 | 11* |
+|[100-990-25-3-1](instances/kLSF/100-990-25-3-1) | 100  | 990 | 25 | 3 | 7* |
+|[100-990-25-3-4](instances/kLSF/100-990-25-3-4) | 100  | 990 | 25 | 3 | 7* |
+|[100-990-50-6-7](instances/kLSF/100-990-50-6-7) | 100 | 990 | 50 | 6 | 1* |
+|[100-990-50-6-8](instances/kLSF/100-990-50-6-8) | 100 | 990 | 50  | 6 | 3* |
+|[100-990-100-6-5](instances/kLSF/100-990-100-6-5) | 109 | 990 | 100 | 6 | 20* |
+|[100-990-125-7-4](instances/kLSF/100-990-125-7-4) | 100 | 990 | 125 | 7  | 16* |
 
 
 __Note 1:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Figueredo (2020)](http://www.repositorio.ufc.br/bitstream/riufc/50722/3/2020_dis_pjafigueredo.pdf).
@@ -90,4 +90,8 @@ Atualização (31/10/2020)
 Atualização (31/10/2020)
 - Instâncias do vertice covering foram alteradas
   - Alterei algumas instância pois foi o problema com maior exigência em relação ao tamanho delas, então reduzi algumas.
+  
+Atualização (12/11/2020)
+  - Corrigido algumas arestas que tava duplicada nos arquivos do MST e kLSF
+  - Corrigido os resultados otimos do kLSF
 
