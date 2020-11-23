@@ -94,4 +94,7 @@ Atualização (31/10/2020)
 Atualização (12/11/2020)
   - Corrigido algumas arestas que tava duplicada nos arquivos do MST e kLSF
   - Corrigido os resultados otimos do kLSF
+  
+Atualização (23/11/2020)
+  - Corrigido modelo do MLST em [descricao_problemas.pdf](descricao_problemas.pdf)
 
