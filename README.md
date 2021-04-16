@@ -34,7 +34,7 @@ __Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser 
 
 ### The Minimum Labeling Spanning Trees
 
-As instâncias com nome "testFile" foram produzidas para esta cadeira i resto das intâncias fora as usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.), todas elas foram foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf), valores com * do lado representam solução otima encontradas dentro das duas horas pelo solver. 
+As instâncias com nome "testFile" foram produzidas para esta cadeira, já o restante das intâncias foram as usadas no trabalho [Cerulli et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1877042813054682#:~:text=In%20the%20k%2Dlabeled%20Spanning,most%20kmax%20different%20labels.). Todas elas foram foram testadas usando o solver GLPK, durante duas horas no modelo definido em  [descricao_problemas.pdf](descricao_problemas.pdf). Valores com * do lado representam solução otima encontradas dentro das duas horas pelo solver. 
 
 Essas instâncias são definidas por uma linha definindo o número de vértices, arestas e rótulos respectivamente, seguida por uma linha em branco e |E| linhas que definem no formato (v1 v2 l) as arestas com extremos v1 e v2 e rótulo l.
 
