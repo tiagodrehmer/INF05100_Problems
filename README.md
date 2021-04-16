@@ -27,7 +27,7 @@ e n1 n2 - aresta definida pelos extremos n1 e n2
 |[queen11_11](instances/VC/queen11_11.col)    |121  |3960  |11   |
 
 
-__Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados de [site da instâncias](https://sites.google.com/site/graphcoloring/vertex-coloring).
+__Note 1:__ As instâncias e os melhores resultados conhecidos foram retirados de [link](https://sites.google.com/site/graphcoloring/vertex-coloring).
 
 __Note 2:__ Um modelo de programação linear e detalhes do problema, podem ser encontrada em [Malaguti et al. (2011)](https://www.sciencedirect.com/science/article/pii/S157252861000054X).
 
